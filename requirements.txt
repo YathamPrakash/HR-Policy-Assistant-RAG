@@ -1,0 +1,23 @@
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Configuration
+pydantic-settings
+
+# PDF processing
+pypdf
+
+# LangChain
+langchain-core
+langchain-text-splitters
+langchain-pinecone
+langchain-google-genai
+
+# Google Gemini
+google-genai
+
+# Vector database
+pinecone
